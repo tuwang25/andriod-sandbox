@@ -1,0 +1,33 @@
+!SESSION 2012-09-16 05:45:25.114 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_PH
+Framework arguments:  -product org.eclipse.epp.package.mobile.product -product org.eclipse.epp.package.mobile.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.mobile.product -data /home/e3mark/Documents/Andriod/sandbox/andriod-sandbox -product org.eclipse.epp.package.mobile.product
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2012-09-16 05:45:30.136
+!MESSAGE Could not load repository template extension contributed by org.eclipse.mylyn.bugzilla.ide with connectorKind bugzilla
+!SESSION 2012-09-16 05:48:36.739 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_PH
+Framework arguments:  -product org.eclipse.epp.package.mobile.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.mobile.product
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2012-09-16 05:48:41.161
+!MESSAGE Could not load repository template extension contributed by org.eclipse.mylyn.bugzilla.ide with connectorKind bugzilla
+!SESSION 2012-09-16 05:50:24.088 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_PH
+Framework arguments:  -product org.eclipse.epp.package.mobile.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.mobile.product
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2012-09-16 05:50:28.330
+!MESSAGE Could not load repository template extension contributed by org.eclipse.mylyn.bugzilla.ide with connectorKind bugzilla
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-09-16 05:53:29.894
+!MESSAGE Failed to load properties file for project 'sandbox'
